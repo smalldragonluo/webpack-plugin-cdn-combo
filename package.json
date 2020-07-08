@@ -1,0 +1,30 @@
+{
+  "name": "webpack-plugin-cdn-combo",
+  "version": "0.0.1",
+  "description": "Load CDN resources in combo mode",
+  "keywords": [
+    "webpack",
+    "cdn",
+    "combo"
+  ],
+  "author": {
+    "name": "smalldragonluo",
+    "email": "smaldragonluo@gmail.com",
+    "url": "https://blog.smalldragonluo.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/cdn-combo.js",
+  "peerDependencies": {
+    "webpack": "^4.43.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:smalldragonluo/webpack-plugin-cdn-combo.git"
+  }
+}
